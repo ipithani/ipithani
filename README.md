@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://github.com/ipithani/images/blob/main/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
 <h1 align="center" >Hi 👋, I'm N A R E N</h1> 
 
 # 💫 About Me:
