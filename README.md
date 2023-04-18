@@ -12,7 +12,7 @@ I'm an **Undergrad Student🎓 [@Aditya Degree College](https://aditya.ac.in/adc
 
 - 🔭 I’m currently working on **React.Js & Node.Js**
 - 🌱 I’m currently learning **ML/DL**
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
