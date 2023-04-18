@@ -15,16 +15,16 @@ I'm an **Undergrad Student🎓 [@Aditya Degree College](https://aditya.ac.in/adc
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi Projects
-  - 🤖 Robotics
+  - 📊 **Machine Learning & Data Science**
+  - 🖼 **Computer Vision**
+  - 🛠 **DIY Raspberry Pi Projects**
+  - 🤖 **Robotics**
 - 📝 I write technical blogs and articles
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
-- 🤔 I’m looking for help with Devops
-- 💬 Ask me about Python, ML, CV, Raspi
-- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
+- 👯 I’m looking to collaborate on making hardware projects with **Raspberry Pi** or **Nvidia Jetson Nano**
+- 🤔 I’m looking for help with **Devops**
+- 💬 Ask me about **Python, ML, DL, SQL, Power BI, CV, Raspi**
+- 📙 Check out my [website](https://www.linkedin.com/in/narendra-pithani/)
+- 🎉 Fun-Fact: I ❤️ **Astrophysics and SpaceX🚀** and watch a lot **Sci-Fi Movies🎬**
 
 [![](https://visitcount.itsvg.in/api?id=ipithani&icon=0&color=0)](https://visitcount.itsvg.in)
 
