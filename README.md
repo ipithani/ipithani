@@ -3,7 +3,7 @@
 </div>  
 
 
-<h1 align="center" >Hi 👋, I'm N A R E N</h1> 
+<h1 align="center" ><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Howdy!, I'm  <a href="https://www.linkedin.com/in/narendra-pithani/">N A R E N</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1> 
 
 # 💫 About Me:
 🔭 I’m currently working on React, Node<br>🌱 I’m currently learning Deep learning<br>💬 Ask me about C,C++,Python,ML,Backend Development<br>⚡ Fun fact I think I am funny
