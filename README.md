@@ -5,8 +5,26 @@
 
 <h1 align="center" ><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Howdy!, I'm  <a href="https://www.linkedin.com/in/narendra-pithani/">N A R E N</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1> 
 
-# 💫 About Me:
-🔭 I’m currently working on React, Node<br>🌱 I’m currently learning Deep learning<br>💬 Ask me about C,C++,Python,ML,Backend Development<br>⚡ Fun fact I think I am funny
+## Little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm an **Undergrad Student🎓 [@Aditya Degree College](https://aditya.ac.in/adcasl/)** from BCA. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+
+## ⚡️ A Few Quick Facts
+
+- 🔭 I’m currently working on **React.Js & Node.Js**
+- 🌱 I’m currently learning **ML/DL**
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 Machine Learning & Data Science
+  - 🖼 Computer Vision
+  - 🛠 DIY Raspberry Pi Projects
+  - 🤖 Robotics
+- 📝 I write technical blogs and articles
+- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
+- 🤔 I’m looking for help with Devops
+- 💬 Ask me about Python, ML, CV, Raspi
+- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
+- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
 [![](https://visitcount.itsvg.in/api?id=ipithani&icon=0&color=0)](https://visitcount.itsvg.in)
 
