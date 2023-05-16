@@ -23,7 +23,7 @@ I'm an **Undergrad Student🎓 [@Aditya Degree College](https://aditya.ac.in/adc
 - 👯 I’m looking to collaborate on making hardware projects with **Raspberry Pi** or **Nvidia Jetson Nano**
 - 🤔 I’m looking for help with **Devops**
 - 💬 Ask me about **Python, ML, DL, SQL, Power BI, CV, Raspi**
-- 📙 Check out my [website](https://www.linkedin.com/in/narendra-pithani/)
+- 📙 Check out my [website](https://www.datascienceportfol.io/narendrapithani)
 - 🎉 Fun-Fact: I ❤️ **Astrophysics and SpaceX🚀** and watch a lot **Sci-Fi Movies🎬**
 
 [![](https://visitcount.itsvg.in/api?id=ipithani&icon=0&color=0)](https://visitcount.itsvg.in)
